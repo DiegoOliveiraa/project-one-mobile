@@ -5,7 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
+<<<<<<< HEAD
     tools:context=".view.activities.TelaLoginActivity">
+=======
+    tools:context=".view.TelaLoginActivity">
+>>>>>>> origin/main
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
